@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 
-Terminal Website
+Terminal Website :  [](hs-terminal.vercel.app)
 
-VanilaJS projects
+VanilaJS projects : 
+[Checkers](https://checkers-haronkar.vercel.app/)
+[Locsic](https://locsic.vercel.app/)
 
 sorting game
 
