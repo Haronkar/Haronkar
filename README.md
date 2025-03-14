@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Terminal Website :  [](hs-terminal.vercel.app)
+Terminal Website :  [link](hs-terminal.vercel.app)
 
 VanilaJS projects : 
 [Checkers](https://checkers-haronkar.vercel.app/)
