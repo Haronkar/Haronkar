@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Terminal Website :  [Link](https://hs-terminal.vercel.app){:target="_blank"}
+Terminal Website :  [Link](https://hs-terminal.vercel.app) {:target="_blank"}
 
 VanilaJS projects : 
 [Checkers](https://checkers-haronkar.vercel.app/)
