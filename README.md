@@ -7,9 +7,9 @@ VanilaJS projects :
 [Checkers](https://checkers-haronkar.vercel.app/)
 [Locsic](https://locsic.vercel.app/)
 
-sorting game
+sorting game : [Link](https://github.com/Haronkar/sorting-game)
 
-Excel Snake
+Excel Snake : [Link](https://github.com/Haronkar/excel-snake)
 
 <!--
 **Haronkar/Haronkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
