@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-[go][my-go-link]{:target="_blank" rel="noopener"}
-
-[my-go-link]: http://stackoverflow.com
-
-Terminal Website :  [Link](https://hs-terminal.vercel.app){:target="_blank" rel="noopener"}
+Terminal Website :  [Link](https://hs-terminal.vercel.app)
 
 VanilaJS projects : 
 [Checkers](https://checkers-haronkar.vercel.app/)
